@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.7.3)
+  - ARSLineProgress (3.1.0)
+  - FoldingCell (5.0.2)
+  - IQKeyboardManagerSwift (6.0.5)
+  - JGProgressHUD (2.1)
+  - Kingfisher (4.10.1)
+  - SwiftChart (1.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.0)
+  - ARSLineProgress
+  - FoldingCell
+  - IQKeyboardManagerSwift (~> 6.0.4)
+  - JGProgressHUD
+  - Kingfisher (~> 4.10.0)
+  - SwiftChart
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ARSLineProgress
+    - FoldingCell
+    - IQKeyboardManagerSwift
+    - JGProgressHUD
+    - Kingfisher
+    - SwiftChart
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  ARSLineProgress: 60778657c69491796c3faf5b834c72924c405833
+  FoldingCell: f92eb5fb9842319e7cd08c71533c98408b785099
+  IQKeyboardManagerSwift: c14eca30f6001457d6ddf25e313f23fb6578c41c
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  SwiftChart: ba767a678d568a5ee22d419e146a0582865e1aff
+
+PODFILE CHECKSUM: 27b6e455856cb1e485d213f59685b0800163dabb
+
+COCOAPODS: 1.8.4
